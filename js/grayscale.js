@@ -50,7 +50,7 @@ function init() {
         center: new google.maps.LatLng(51.504112, -1.785285), // Wroughton Airfield
 
         // Disables the default Google Maps UI components
-        disableDefaultUI: true,
+        disableDefaultUI: false,
         scrollwheel: true,
         draggable: true,
 
