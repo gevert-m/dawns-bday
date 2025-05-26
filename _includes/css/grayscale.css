@@ -255,7 +255,7 @@ a:focus {
 .access-section {
     width: 100%;
     padding: 50px 0;
-    color: #0000;
+    color: #ffffff;
     background: url(img/access-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
