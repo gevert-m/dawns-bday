@@ -30,3 +30,4 @@ footer: Dawn's 48th Birthday
 # Build settings
 markdown: kramdown
 permalink: pretty
+gmaps_api_key: ENV['GMAPS_API_KEY']
